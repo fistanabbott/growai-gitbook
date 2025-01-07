@@ -3,7 +3,7 @@
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
-    "language": "zh-hans",
+    "language": "en",
     "gitbook": "3.2.3",
     "root": ".",
     "styles": {
@@ -66,7 +66,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "sunleafcn.com | <a href='sunleafcn.com' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "sunleafcn.com | <a href='sunleafcn.com' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
