@@ -52,7 +52,6 @@
     * [Optimizing Die Casting for Complex Geometries](articles/optimizing-die-casting-complex-geometries-119-20250106-1-46-1736157557.md)
     * [Why Post-Processing Is Important for Die Casting Parts](articles/why-post-processing-is-important-for-die-casting-parts-119-20250106-1-47-1736157576.md)
     * [Heat Treatment for Die Cast Products: A Complete Guide](articles/heat-treatment-for-die-cast-products-119-20250106-1-48-1736157599.md)
-    * [X-Ray Inspection for Die Casting: How It Ensures Quality](articles/x-ray-inspection-for-die-casting-119-20250106-1-49-1736157622.md)
     * [How to Improve Yield Rate in Die Casting](articles/how-to-improve-yield-rate-in-die-casting-119-20250106-1-50-1736157645.md)
     * [Top Die Casting Companies in 2025](articles/top-die-casting-companies-2025-119-20250106-1-51-1736157669.md)
     * [The Global Market for Die Casting: Trends and Forecasts](articles/global-market-for-die-casting-119-20250106-1-52-1736157692.md)
