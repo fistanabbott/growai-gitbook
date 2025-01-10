@@ -1,5 +1,5 @@
 {
-    "title": "Sun leaf Die Casting | Professional High-Quality Die Casting Manufacturer - Precision Aluminum Alloy Die Casting Solutions",
+    "title": "Xinli Die Casting | Professional High-Quality Die Casting Manufacturer - Precision Aluminum Alloy Die Casting Solutions",
     "description": "API Documentation and Article Sharing",
     "author": "jinhai",
     "output.name": "site",
@@ -66,7 +66,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "sunleafcn.com | <a href='sunleafcn.com' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
+            "copyright": "sunleafcn.com | <a href='https://sunleafcn.com' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
             "modify_label": "Last Revised Date of the Document:",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -125,7 +125,7 @@
         "logo": {
             "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "sunleafcn.com"
+            "url": "https://sunleafcn.com"
         },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
