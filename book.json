@@ -1,6 +1,6 @@
 {
     "title": "Sun leaf Die Casting | Professional High-Quality Die Casting Manufacturer - Precision Aluminum Alloy Die Casting Solutions",
-    "description": "API文档及文章分享",
+    "description": "API Documentation and Article Sharing",
     "author": "jinhai",
     "output.name": "site",
     "language": "en",
@@ -76,7 +76,7 @@
         },
         "edit-link": {
             "base": "https://github.com/fistanabbott/growai-gitbook/blob/master",
-            "label": "在GitHub上编辑"
+            "label": "Edit on GitHub"
         },
         "favicon": {
             "shortcut": "/assets/favicon.ico",
@@ -134,7 +134,7 @@
             "isCollapsed": false,
             "isScrollspyActive": true,
             "visible": true,
-            "label": "内容"
+            "label": "Content"
         },
         "language-picker": {
             "grid-columns": 3
