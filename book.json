@@ -67,7 +67,7 @@
         },
         "tbfed-pagefooter": {
             "copyright": "sunleafcn.com | <a href='sunleafcn.com' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
-            "modify_label": "该文件修订：",
+            "modify_label": "Last Revised Date of the Document:",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "simple-page-toc": {
