@@ -3,6 +3,7 @@
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
   * [Latest](articles/latest/README.md)
+    * [The Latest Technological Breakthroughs in Die-Casting](articles/latest-technological-breakthroughs-in-die-casting-126-20250114-2-1-1736794800.md)
     * [Driving Industry Innovation for Decades](articles/driving-industry-innovation-126-20250114-1-1-1736784000.md)
     * [Sun Leaf: Redefining Possibilities in Die-Casting](articles/sun-leaf-redefining-possibilities-in-die-casting-126-20250113-4-1-1736773200.md)
     * [Where Technology Drives Die-Casting Excellence](articles/where-technology-drives-die-casting-excellence-126-20250113-3-1-1736762400.md)
