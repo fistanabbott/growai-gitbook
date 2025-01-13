@@ -3,6 +3,7 @@
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
   * [Latest](articles/latest/README.md)
+    * [Where Technology Drives Die-Casting Excellence](articles/where-technology-drives-die-casting-excellence-126-20250113-3-1-1736762400.md)
     * [Innovating for Tomorrow, Delivering Today](articles/innovating-for-tomorrow-delivering-today-126-20250113-2-1-1736751600.md)
     * [Sun Leaf: Shaping the Future of Metal Casting](articles/sun-leaf-shaping-metal-casting-126-20250113-1-1-1736740800.md)
     * [Heat Dissipation Mold: Advanced thermal solutions ensuring efficiency and durability for industrial applications](articles/heat-dissipation-mold-advanced-solutions-124-20250109-1-1-1736424519.md)
