@@ -77,7 +77,7 @@ gen_summary_html(Children, BaseDir, ParentLink) ->
 
 links_title(BaseDir) ->
     [Lang|_] = string:tokens(BaseDir, "/"),
-    maps:get(Lang, #{"." => unicode:characters_to_binary("以下是本节中的文章："), "zh-hans" => unicode:characters_to_binary("以下是本节中的文章："), "en" => <<"Here are the articles in this section:">>}).
+    maps:get(Lang, #{"." => unicode:characters_to_binary("Here are the articles in this section:"), "zh-hans" => unicode:characters_to_binary("以下是本节中的文章："), "en" => <<"Here are the articles in this section:">>}).
 
 make_relative_link(ParentLink, Link) ->
     PUrl = markdown_to_html_url(ParentLink),
